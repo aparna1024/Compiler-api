@@ -1,0 +1,31 @@
+.first{
+    display: inline;
+    height: 20%;
+    width: 100%;
+    padding:1px;
+    margin-bottom: 10px;
+}
+#language{
+    margin-right: 10px;
+    float: right;
+}
+#code{
+    background-color: rgb(207, 199, 199);
+    margin: 10px;
+    height: 250px;
+    width: 98%;
+    margin-right: 10px;
+
+}
+#output{
+    margin: 10px;
+    padding: 10px;
+    padding-right: 20px;
+    background-color: black;
+    color: white;
+    width: auto;
+    height: 120px;
+}
+#compile{
+    margin: 10px;
+}
